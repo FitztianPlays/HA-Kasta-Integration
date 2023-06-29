@@ -1,0 +1,16 @@
+{
+  "domain": "kasta",
+  "name": "Kasta",
+  "codeowners": [
+    "@fitztianplays"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/kasta_integration",
+  "homekit": {},
+  "iot_class": "local_push",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "version": "1.0.0"
+}
